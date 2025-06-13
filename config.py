@@ -1,0 +1,1 @@
+serverchan_key = 'SCT282237TA-4sseGxqm4WrkvefyZLDe53M0'
